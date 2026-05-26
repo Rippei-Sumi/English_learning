@@ -1,2 +1,2 @@
-# English_learning
+# 英語学習アプリ
 ポートフォリオ
