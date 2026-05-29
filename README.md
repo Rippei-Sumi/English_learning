@@ -6,6 +6,7 @@
 ![ログイン画面](https://github.com/Rippei-Sumi/English_learning/blob/main/images/ログイン画面.png)\
 メールアドレスとパスワードを入力してログインできる。
 ## 新規登録画面
+![新規登録](https://github.com/Rippei-Sumi/English_learning/blob/main/images/新規登録.png)\
 ユーザー名、メールアドレス、パスワードを入力してアカウント登録をする。
 ## ホーム画面
 ![ホーム画面](https://github.com/Rippei-Sumi/English_learning/blob/main/images/ホーム画面.png)\
