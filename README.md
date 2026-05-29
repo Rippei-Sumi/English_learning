@@ -7,7 +7,7 @@
 ## 新規登録画面
 ユーザー名、メールアドレス、パスワードを入力してアカウント登録をする。
 ## ホーム画面
-!["ホーム画面"]("https://github.com/Rippei-Sumi/English_learning/tree/main/images/ホーム画面.png")\
+!["ホーム画面"]("https://github.com/Rippei-Sumi/English_learning/tree/main/images/ホーム画面.png")
 ・カレンダー(左右の矢印で月の切り替えが可能)\
 ・日付表示\
 ・学習問題数表示(カレンダーの日付にカーソルを合わせる)\
